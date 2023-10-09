@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Change Language App</string>
+    <string name="prompt_email">ईमेल</string>
+    <string name="prompt_password">पासवर्ड</string>
+    <string name="action_sign_in">साइन इन करें या पंजीकृत करें</string>
+    <string name="action_sign_in_short">साइन इन</string>
+    <string name="welcome">"स्वागत है!"</string>
+    <string name="invalid_username">अवैध उपयोगकर्ता नाम</string>
+    <string name="invalid_password">पासवर्ड 5 अक्षरों से अधिक होना चाहिए</string>
+    <string name="login_failed">"लॉगिन असफल"</string>
+    <string name="ChangeLanguage">भाषा बदलें</string>
+
+
+
+</resources>
